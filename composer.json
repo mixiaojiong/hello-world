@@ -8,5 +8,8 @@
             "email": "mixiaojiong@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Xiaojiong\\Demo\\": "src" }
+    },
     "require": {}
 }
